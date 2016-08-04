@@ -6,7 +6,7 @@
 > 最后修改时间：2016年8月4日
 
 #### 本面试题共包括4个部分
-* [前端面试题之HTML](https://github.com/JeseWang/Interview/blob/master/README.md)
-* [前端面试题之CSS](https://github.com/JeseWang/Interview/blob/master/README.md)
-* [前端面试题之JavaScript](https://github.com/JeseWang/Interview/blob/master/README.md)
+* [前端面试题之HTML](https://github.com/JeseWang/Interview/tree/master/The%20interview%20questions%20summary%20of%20Web/HTML)
+* [前端面试题之CSS](https://github.com/JeseWang/Interview/tree/master/The%20interview%20questions%20summary%20of%20Web/CSS)
+* [前端面试题之JavaScript](https://github.com/JeseWang/Interview/tree/master/The%20interview%20questions%20summary%20of%20Web/JavaScript)
 * [前端面试题之综合](https://github.com/JeseWang/Interview/blob/master/README.md)
